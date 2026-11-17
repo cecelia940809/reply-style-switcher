@@ -1,0 +1,17 @@
+.reply-style-switcher .rss-textarea {
+  display: block;
+  width: 100%;
+  margin: 8px 0 16px;
+  resize: vertical;
+  min-height: 120px;
+  font: inherit;
+}
+.reply-style-switcher .rss-status {
+  min-height: 1.5em;
+  color: var(--text-muted);
+}
+.reply-style-switcher .rss-disclosure {
+  color: var(--text-muted);
+  font-size: var(--font-ui-small);
+}
+.reply-style-switcher label { display: block; }

@@ -1,0 +1,10 @@
+{
+  "id": "reply-style-switcher",
+  "name": "Reply Style Switcher",
+  "version": "1.0.0",
+  "minAppVersion": "1.6.0",
+  "description": "Compose reply prompts and generate replies in different styles with an optional AI connection.",
+  "author": "cecelia940809",
+  "authorUrl": "https://github.com/cecelia940809",
+  "isDesktopOnly": false
+}
